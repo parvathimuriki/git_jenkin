@@ -1,7 +1,7 @@
 import java.util.*;
 class hw
 {
-void find()
+public static void main(String args[])
 {
 System.out.println("hello parvathi");
 }
